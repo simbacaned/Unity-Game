@@ -1,2 +1,2 @@
-# DevProject
-DevProject - Magic Ages Unity Game
+# Unity Game
+Magic Ages Unity Game
