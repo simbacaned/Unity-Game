@@ -1,0 +1,9 @@
+Rome,Milan,Naples,Turin,Bologna,Palermo,Catania,Bari,Genoa,Florence,Pescara,ancona
+Athens,Olympia,Delphi,Sparta,Thebes,Corinth,Rhodes,Syracuse,Eleusis,Messene
+Cairo,Alexandria,Giza,Port Said,Suez,Al Mahallah al Kubra,Luxor,Asyut,Al Mansurah,Tanta
+Oslo,Uppsala,Sigtuna,Hedeby,Kopen hamn,Trondheim,Vestfold,Ribe,Skara,Bisby,Kaupang
+Cardiff,Newport,St Davids,St Asaph,Swansea,Bangor,Tenby,Cardigan,Bridgend,Pwllheli,Conwy,Wrexham
+Camelot,Mercia,Cornwall,Anglia,Elmet,Laigin,Bernicia,Connacht,Kent,Deira,Hebridges
+Tionondogue,Gannagaro,Tsha'hon'nonyen'dakhwa,Kanonwalohale,Ganondagan,Lewiston,Canajoharie,Chonodote,Otisco,Onenghiaktas,Canawaugus
+Mumbai,Delhi,Bangalore,Hyderabad,Ahmedabad,Chennai,Kolkata,Surat,Vadodara,Pune,Jaipur,Lucknow
+Jaww al-Yamamah,Hadjir,Al Qassim,Qurran,'Aqiq Bani Uqayl,Filj,Na'am,Al-Qarra,Tharmada,Shaqra,Al-Quway,Qarma
